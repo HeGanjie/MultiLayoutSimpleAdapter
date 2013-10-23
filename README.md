@@ -1,15 +1,15 @@
-MultiLayoutSimpleAdapter
+ï»¿MultiLayoutSimpleAdapter
 ========================
 
-Ê¹µÃListViewÄÜ¹»³ÊÏÖ¶àÖÖ²¼¾ÖµÄ¶à²¼¾ÖÊÊÅäÆ÷ [ä¯ÀÀÔ´´úÂë](/MultiLayoutSimpleAdapter.java)
+ä½¿å¾—ListViewèƒ½å¤Ÿå‘ˆç°å¤šç§å¸ƒå±€çš„å¤šå¸ƒå±€é€‚é…å™¨ [æµè§ˆæºä»£ç ](/MultiLayoutSimpleAdapter.java)
 
-ListViewÓÃÁËSimpleAdapterÖ®ºó¾ÍÖ»ÄÜ³ÊÏÖÒ»ÖÖLayout£¬ÕâÑùËäÈ»¼òµ¥µ«ÊÇÓĞÊ±²»ÄÜÂú×ãĞèÇó¡£ËùÒÔ£¬ÎÒÏÂÔØÁË **Android SDK 2.3.3** µÄÔ´Âë²¢ĞŞ¸ÄÁË **SimpleAdapter.java**¡£
+ListViewç”¨äº†SimpleAdapterä¹‹åå°±åªèƒ½å‘ˆç°ä¸€ç§Layoutï¼Œè¿™æ ·è™½ç„¶ç®€å•ä½†æ˜¯æœ‰æ—¶ä¸èƒ½æ»¡è¶³éœ€æ±‚ã€‚æ‰€ä»¥ï¼Œæˆ‘ä¸‹è½½äº† **Android SDK 2.3.3** çš„æºç å¹¶ä¿®æ”¹äº† **SimpleAdapter.java**ã€‚
 
-¸÷Î»ÏÂÔØÁËÖ®ºóÄÜ½«Ëüµ±³ÉSimpleAdapterÊ¹ÓÃ¡£  
+å„ä½ä¸‹è½½äº†ä¹‹åèƒ½å°†å®ƒå½“æˆSimpleAdapterä½¿ç”¨ã€‚  
 
-Ö÷ÒªĞŞ¸ÄµÄµØ·½ÊÇ£º  
-1¡¢¹¹Ôì·½·¨²»ÔÙ½ÓÊÜµ¥¸öLayout Resource£¬ÄÜ½ÓÊÜ**ResourceÊı×é**¡£  
-2¡¢ÄÜ¹»¸ù¾İ ItemViewTypeÀ´Ñ¡ÔñResource£¬ËùÒÔ×ÓÀàÓ¦¸ÃÒªÖØĞ´ `getItemViewType`¡£
+ä¸»è¦ä¿®æ”¹çš„åœ°æ–¹æ˜¯ï¼š  
+1ã€æ„é€ æ–¹æ³•ä¸å†æ¥å—å•ä¸ªLayout Resourceï¼Œèƒ½æ¥å—**Resourceæ•°ç»„**ã€‚  
+2ã€èƒ½å¤Ÿæ ¹æ® ItemViewTypeæ¥é€‰æ‹©Resourceï¼Œæ‰€ä»¥å­ç±»åº”è¯¥è¦é‡å†™ `getItemViewType`ã€‚
 
-### Í¼Àı£¬ÏÂÃæµÄ¿Ø¼ş¾ùÔÚÍ¬Ò»¸öListViewÄÚ£º
-![Àı×Ó](http://static.oschina.net/uploads/code/201301/18001622_RtwX.png "ÈıÖÖ×Ô¶¨Òå²¼¾Ö")
+### å›¾ä¾‹ï¼Œä¸‹é¢çš„æ§ä»¶å‡åœ¨åŒä¸€ä¸ªListViewå†…ï¼š
+![ä¾‹å­](http://static.oschina.net/uploads/code/201301/18001622_RtwX.png "ä¸‰ç§è‡ªå®šä¹‰å¸ƒå±€")
