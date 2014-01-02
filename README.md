@@ -12,4 +12,4 @@ ListView用了SimpleAdapter之后就只能呈现一种Layout，这样虽然简�
 2、能够根据 ItemViewType来选择Resource，所以子类应该要重写 `getItemViewType`。
 
 ### 图例，下面的控件均在同一个ListView内：
-![例子](http://static.oschina.net/uploads/code/201301/18001622_RtwX.png "三种自定义布局")
+![例子](https://github.com/HeGanjie/MultiLayoutSimpleAdapter/blob/master/example.png?raw=true "三种自定义布局")
